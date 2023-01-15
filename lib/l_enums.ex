@@ -1,6 +1,6 @@
 defmodule LEnums do
   @moduledoc """
-  Documentation for `LEnums`.
+  Nothing much to see here yet. `LEnums`.
   """
 
   @doc """
