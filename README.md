@@ -1,13 +1,12 @@
-# lenums
+# LEnums
 
-LEnums are modern, tabular enum values for Elixir. Inspired by Java enums.
-
+LEnums are modern, tabular enum values for Elixir. Inspired by Java enums, with Elixir flavour.
 
 LEnum takes care of:
 
 - documentation
 - dialyzer
-- ecto (ans schemaless)
+- ecto (and schemaless)
 - casting
 - guards
 

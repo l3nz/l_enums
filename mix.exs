@@ -8,7 +8,7 @@ defmodule LEnums.MixProject do
     [
       app: :l_enums,
       version: @version,
-      description: "Like what, an Elixir library for tables with a Latin name?",
+      description: "LEnums are modern, tabular enum values for Elixir. Inspired by Java enums, with Elixir flavour.",
       package: package(),
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,
